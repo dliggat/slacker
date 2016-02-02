@@ -1,0 +1,9 @@
+{
+  "slack": {
+    "message": "hello world",
+    "webhookUrl" : "",
+    "channel": "",
+    "username": "",
+    "icon_emoji": ""
+  }
+}
